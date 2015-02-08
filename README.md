@@ -1,8 +1,7 @@
 # Unit Circle LED Matrix Project
 This program was designed as a project made for PreCalculus that creates the Unit Circle and draws the lines on the Unit Circle
 
-This is the Final Result:
-![final]
+The final result can be found under the images file in this Repo.
 
 # Acknowledgements
 The following piece of software has been built upon the original project made by hzeller https://github.com/hzeller/rpi-rgb-led-matrix/
